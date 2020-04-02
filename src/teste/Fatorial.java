@@ -6,7 +6,7 @@ public class Fatorial {
      * @param i
      * @return
      */
-    public static int calcularFatorial(int i) {
+    public int calcularFatorial(int i) {
         if (i > 1) {
             return i * calcularFatorial(i-1);
         } 
