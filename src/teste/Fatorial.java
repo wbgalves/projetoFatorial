@@ -2,7 +2,7 @@ package teste;
 
 public class Fatorial {
     /**
-     * Versão recursiva do cálculo do fatorial
+     * Versão recursiva do cálculo do fatorial, incluindo o teste para n=0
      * @param n
      * @return
      */
